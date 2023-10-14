@@ -95,10 +95,10 @@ p {
 }
 p.colored {
   background-color: var(--paragraph-background-green color);
-  color: var(--paragraph-color-on-color green);
+  color: var(--paragraph-color-on-color #008000);
 }
 nav {
-  background-color: var(--nav-background--primary-color: green   ;
+  background-color: var(--nav-background--primary-color:   ;
   --secondary-color: #278224 ;
   --accent1-color: #5a2828;
   --accent2-color: rgb(32, 72, 19);
