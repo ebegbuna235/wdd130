@@ -1,5 +1,5 @@
 #content {
-    max-width: 1600px; | 100rem
+    max-width: 1600px; 
     margin: 0 auto;
 }
 
@@ -18,10 +18,11 @@ main section {
 
 #background {
     height: 725px;
+    background-color: #a5b452;
 }
 
 body {
-    background-color:#3cdcd ;
+    background: color #3cdcd3;
 }
 header {
     background-color: #5f503c;
@@ -43,9 +44,7 @@ nav a:hover {
 .book:hover, .join:hover {
     background: color #9888a5;
 }
-#background {
-    #5f503c;
-}
+
 .msg {
     background-color: #a5b452;
 }
@@ -61,7 +60,10 @@ footer p {
 footer p a :hover {
     text-decoration: underline;
 }
-.logo, .icon {
+.logo {
+    width: 80px;
+}
+.icon {
     width: 80px;
 }
 #hero.img {
