@@ -52,11 +52,16 @@ body {
 
 header {
     background-color: #5f503c;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 
 nav {
     background-color: steelblue;
     padding: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
 
 a {
@@ -68,11 +73,13 @@ nav a {
     color: #fcfbfb;
     padding: 35px;
     text-decoration: none;
-    text-align: center;
+    
 }
 
 #logo_link {
     padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 
 nav a:hover {
@@ -177,4 +184,9 @@ main section img {
 
 #hero-img {
     width: 100%;
+}
+
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
 }
