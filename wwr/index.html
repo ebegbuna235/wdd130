@@ -11,6 +11,37 @@
 <body>
   <div id="content">
     <header>
+
+      header {
+      display: grid;
+      grid-template-columns: 150px auto;
+      }
+      nav {
+      display: flex;
+      justify-content: space-around;
+      }
+      #logo_link {
+      padding-top: 5px;
+      justify-self: center;
+      align-self: center;
+      }
+      #hero {
+      display: grid;
+      grid-template-columns: 1fr 3fr 1fr;
+      }
+      #hero-box {
+        grid-column: 1/4;
+        grid-row: 1/3;
+      }
+        
+    
+              
+
+
+
+
+      </nav>
+
       <a id="logo_link" href="index.html">
         <img class="logo" src="images/logo.png" alt="Dry Oar Logo">
       </a>
@@ -23,7 +54,8 @@
     </header>
     <div id="hero">
       <div id="hero-box">
-        <img id="hero-img" src="images/hero.png" alt="People enjoying white water rafting">
+        <img id="hero-img" src="images/hero.png"
+          alt="People enjoying white water rafting">
       </div>
       <section id="hero-msg">
         <h1 class="home-title">Have An Adventure</h1>
@@ -53,8 +85,10 @@
       <img class="mountains" src="images/mountains.jpg" alt="Misty mountains">
       <section class="msg">
         <h2>More Than Just The Thrill</h2>
-        <p>Enjoy the breathtaking scenery. From valleys, meadows, canyons, and high peaks; it's way more than just the
-          rapids. It's a great way to get away from it all and relax amongs all the beauty of the great outdoors. </p>
+        <p>Enjoy the breathtaking scenery. From valleys, meadows, canyons, and
+          high peaks; it's way more than just the
+          rapids. It's a great way to get away from it all and relax amongs all
+          the beauty of the great outdoors. </p>
         <a class='join' href="contactus.html">Join Us</a>
       </section>
     </main>
