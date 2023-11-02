@@ -18,7 +18,7 @@ h1 {
 .rivers-card,
 .camping-card,
 .rapids-card {
-    margin-top: 200px;
+    margin: 200px 0;
 }
 
 
@@ -29,6 +29,7 @@ nav a {
 #hero-msg h1,
 #hero-msg h4 {
     text-align: center;
+    color: #e0dddd;
 }
 
 .button-box {
@@ -49,7 +50,7 @@ main section {
 
 
 body {
-    background: color #3cdcd3;
+    background: #3cdcd3;
 }
 
 header {
@@ -87,6 +88,7 @@ nav a {
 #hero {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
+    margin-top: -100px;
 }
 
 #hero-box {
@@ -113,7 +115,7 @@ nav a:hover {
 
 .book:hover,
 .join:hover {
-    background: color #9888a5;
+    background-color: #9888a5;
     color: #fff;
 }
 
@@ -171,7 +173,7 @@ footer p a :hover {
 
 }
 
-footer.social img {
+.social img {
     padding-top: 15px;
 }
 
@@ -202,6 +204,7 @@ body {
     border: 10px solid #d9c2a3;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
+    width: 100%;
 }
 
 .card-img:hover {
@@ -226,6 +229,11 @@ body {
     grid-row: 2/3;
 }
 
+.rapids-card {
+    grid-column: 8/10;
+    grid-row: 2/3;
+}
+
 
 #hero-img {
     width: 100%;
@@ -235,43 +243,66 @@ body {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
+
+#hero-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
+}
+
 @media screen and (max-width: 900px) {
-    #hero, .home-grid {
+
+    #hero,
+    .home-grid {
         display: block;
         height: auto;
     }
-    nav, footer {
+
+    nav,
+    footer {
         flex-direction: column;
     }
+
     nav a {
         display: block;
         padding: 15px;
     }
+
     #hero {
         margin-top: 0;
     }
+
     #hero-msg {
         margin-top: 0;
     }
+
     #hero-msg h4 {
         display: none;
     }
+
     .home-title {
         font-size: 25px;
         color: #6f7364;
     }
-    .rivers-card, .camping-card, .rapids-card { 
+
+    .rivers-card,
+    .camping-card,
+    .rapids-card {
         margin: 50px auto;
         width: 60%;
     }
+
     #background {
         display: none;
     }
-    .mountains, .msg {
+
+    .mountains,
+    .msg {
         width: 80%;
         display: block;
         margin: 0 auto;
     }
+
     footer {
         margin-top: 25px;
     }
