@@ -280,7 +280,8 @@ body {
         display: none;
     }
 
-    .home-title {
+    .home-title,
+    #hero-msg h1 {
         font-size: 25px;
         color: #6f7364;
     }
