@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-11-09T19:11:01.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="j_WehpYXHBk5Te7GvzWV" version="22.1.0" type="device">
+  <diagram name="Page-1" id="BgwkwYHteRaO5HY2GKKK">
+    <mxGraphModel dx="2148" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" width="1150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-10" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1470" width="1150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-12" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-14" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1500" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1500" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="710" y="670" width="410" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="390" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1110" width="400" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-21" value="&lt;h2 style=&quot;color: rgb(56, 56, 56); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Main Fork of the Salmon River, Idaho&lt;/span&gt;&lt;/h2&gt;&lt;h1&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Nestled deep in the Frank Church Wilderness of No Return winds the Salmon river. The Salmon was given the nickname long ago as the River of No Return by the people living near it because of the number of folks that came to visit and fell so in love with the rugged beauty of the river that they never left.&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Herds of elk and deer graze on the hillsides around the river and bear and bighorn sheep are also commonly sighted. The river corridor is also lined with awe inspiring ponderosa pine which tower over the sandy beaches in the campsites and provide shelter from sun or rain when needed.&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Let&#39;s not forget the rapids! They range from class I-IV. The Salmon is one of the longest undammed rivers in the United States. As a free flowing river the water is higher, faster, and colder in the early summer and lower, slower, and warmer in the late summer. There are good rapids all summer...but families with children who like to swim tend to appreciate the late summer&#39;s slower, warmer water more.&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="690" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-22" value="&lt;h2 style=&quot;color: rgb(56, 56, 56); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Desolation and Gray Canyon, Utah&lt;/h2&gt;&lt;h1&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Winding through canyons in central Utah, in some of the most desolate land anywhere, the Green river flows towards the mighty Colorado river and the sea. High grey stone cliffs, beautiful desert scenery, and great rapids have made this run famous. This 84-mile trip runs from from Sand Wash to Swaseys Rapid (just outside Green River Utah) and boasts outstanding scenery, interesting geologic formations, evidence of prehistoric and historic human activity, and great whitewater opportunities.&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Desolation is rated a Class II/III and is usually done in 6 days&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Desolation Canyon has been recognized as a National Landmark.&amp;nbsp; This designation is based on the uniqueness and rich history that the canyon tells.&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="630" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5xiTr6KCwvhPZfiu4DcE-23" value="&lt;h3 style=&quot;color: rgb(56, 56, 56); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Grand Canyon, Arizona&lt;/h3&gt;&lt;h1&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;This is the grand daddy of all canyons and the grand daddy of all river trips. You will never forget your visit to the Grand Canyon.&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Grand Canyon river rafting combines world-class whitewater with breathtaking scenery to make one truly unforgettable river experience. The canyon is filled not only with exhilarating whitewater rapids, but with side canyons and ancient indian ruins accessible only by river.&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;CLASS I - X: The Grand Canyon uses a unique river rating scale. The rapids in the Canyon are technically rated I - X ( 1 - 10) to accommodate such a wide variety of rapids and river variances. However, most people are familiar with the regular I - V river rating scale, so we often refer to both.&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1115" width="630" height="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
