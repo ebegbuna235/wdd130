@@ -259,14 +259,41 @@ img {
 /*******************************************************************
 CSS for the Rivers Page
 ********************************************************************/
-h3 {
-    margin: 50px 0;
+river.grid section {
+    display: grid;
+    grid-template-columns: 5 1fr;
+    gap: 2em 2.5em;
+    margin: 3em 0;
+    text-align: left;
 }
 
-h4 {
-    margin: 50px 0;
+Idaho_river {
+    grid-column: 3/6;
+    grid-row: 1/2;
+    border-radius: 5px;
+    padding-top: 20px;
+
 }
 
+Utah_river {
+    grid-column: 1/4;
+    grid-row: 2/3;
+    width: 100px;
+    background-color: #d9c2a3;
+    border-radius: 0 25px 25px 0;
+    padding: 1em;
+    color: #6f7364;
+    margin: 0;
+}
+
+arizona_river {
+    grid-column: 3/6;
+    grid-row: 3/4;
+    border-radius: 5px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
 
 /*******************************************************************
 Cell phone CSS
